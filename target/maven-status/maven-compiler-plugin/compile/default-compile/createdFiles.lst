@@ -1,7 +1,0 @@
-com/example/mp21sample/resilient/ResilienceController.class
-com/example/mp21sample/metric/MetricController.class
-com/example/mp21sample/secure/ProtectedController.class
-com/example/mp21sample/health/ServiceHealthCheck.class
-com/example/mp21sample/config/ConfigTestController.class
-com/example/mp21sample/Mp21sampleRestApplication.class
-com/example/mp21sample/HelloController.class

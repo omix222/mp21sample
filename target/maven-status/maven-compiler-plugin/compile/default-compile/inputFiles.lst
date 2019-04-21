@@ -1,7 +1,0 @@
-/Users/hiromitakahashi/oper/microprofile/mp21sample/src/main/java/com/example/mp21sample/HelloController.java
-/Users/hiromitakahashi/oper/microprofile/mp21sample/src/main/java/com/example/mp21sample/resilient/ResilienceController.java
-/Users/hiromitakahashi/oper/microprofile/mp21sample/src/main/java/com/example/mp21sample/secure/ProtectedController.java
-/Users/hiromitakahashi/oper/microprofile/mp21sample/src/main/java/com/example/mp21sample/health/ServiceHealthCheck.java
-/Users/hiromitakahashi/oper/microprofile/mp21sample/src/main/java/com/example/mp21sample/config/ConfigTestController.java
-/Users/hiromitakahashi/oper/microprofile/mp21sample/src/main/java/com/example/mp21sample/Mp21sampleRestApplication.java
-/Users/hiromitakahashi/oper/microprofile/mp21sample/src/main/java/com/example/mp21sample/metric/MetricController.java
