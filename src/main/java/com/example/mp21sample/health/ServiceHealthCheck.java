@@ -13,7 +13,13 @@ public class ServiceHealthCheck implements HealthCheck {
     @Override
     public HealthCheckResponse call() {
 
-        return HealthCheckResponse.named(ServiceHealthCheck.class.getSimpleName()).up().build();
+        return HealthCheckResponse.named(ServiceHealthCheck.class
+                .getSimpleName())
+                .withData("custom key","custom value")
+                .up()
+                .build();
 
     }
 }
+
+
