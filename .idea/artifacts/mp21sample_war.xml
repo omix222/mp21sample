@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mp21sample:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>mp21sample</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="mp21sample.war">
+      <element id="artifact" artifact-name="mp21sample:war exploded" />
+    </root>
+  </artifact>
+</component>
