@@ -11,7 +11,7 @@ import javax.ws.rs.Path;
 
 @Path("/config")
 @RequestScoped
-public class ConfigTestController implements ConfigSourceProvider{
+public class ConfigTestController {
 
     @Inject
     @ConfigProperty(name = "config.key",defaultValue = "default")
